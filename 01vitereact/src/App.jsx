@@ -3,11 +3,11 @@ import Test from "./Test"
 
 
 function App() {
- 
+  const username = "risika"
 
   return (
     <>
-    <h1>risika sahu react</h1>
+    <h1>{username} react </h1>
     <Test />
     </>
    
