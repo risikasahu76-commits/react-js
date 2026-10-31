@@ -12,7 +12,7 @@ function App() {
     <Card username="xyz"/>
     <Card username="abc"/>
     <Card username="pqrst"/>
-    <Card/>
+    <Card/> 
     
     </>
   )
