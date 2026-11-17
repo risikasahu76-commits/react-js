@@ -1,0 +1,32 @@
+.destination-container {
+  text-align: center;
+}
+
+.destination-title {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.destination-list {
+  display: block; /* Makes sure items break into new lines */
+}
+
+.destination-item {
+  display: inline-block; /* Displays items in a line */
+  width: 200px; /* Adjust width as needed */
+  margin: 10px;
+  vertical-align: top; /* Aligns items at the top */
+  text-align: left; /* Aligns text to the left */
+}
+
+button {
+  padding: 10px;
+  border: none;
+  background-color: #61dafb;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4fa3d0;
+}

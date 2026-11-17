@@ -1,0 +1,16 @@
+.destination-list {
+  text-align: center; /* Centers the text and content */
+}
+
+.destination-list h2 {
+  margin: 20px 0; /* Adds space above and below the title */
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.destination-items {
+  display: flex; /* Align items horizontally */
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+  justify-content: center; /* Center items horizontally */
+  gap: 20px; /* Space between items */
+}
